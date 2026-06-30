@@ -115,10 +115,8 @@ The following analyses were performed:
 
 ## 📷 Dashboard Preview
 
-<p align="center">
-  <img src="Images/<img width="1462" height="807" alt="HEALTHCARE APPOINTMENT ANALYSIS  DASHBOARD " src="https://github.com/user-attachments/assets/9ebc42e7-c840-4f07-9e36-a79a20d1307e" />
-" width="900">
-</p>
+![Dashboard](<img width="1462" height="807" alt="HEALTHCARE APPOINTMENT ANALYSIS  DASHBOARD " src="https://github.com/user-attachments/assets/0104f534-e4bd-4b14-adf9-754134576afb" />
+)
 
 ---
 
